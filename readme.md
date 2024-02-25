@@ -1,1 +1,1 @@
-this is a cosole app for guesing the random number
+this is a console app for guesing the random number
